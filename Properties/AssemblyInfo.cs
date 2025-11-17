@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("protoc-gen-turbolink")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("turbolink proto generate tool")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("thecodeway.com")]
 [assembly: AssemblyProduct("protoc-gen-turbolink")]
-[assembly: AssemblyCopyright("Copyright © thecodeway.com 2023")]
+[assembly: AssemblyCopyright("Copyright © thecodeway.com 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.6.9.0")]
-[assembly: AssemblyFileVersion("2.6.9.0")]
+[assembly: AssemblyVersion("2.7.0.0")]
+[assembly: AssemblyFileVersion("2.7.0.0")]
